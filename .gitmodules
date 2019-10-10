@@ -1,0 +1,3 @@
+[submodule "src/slave1_repo"]
+	path = src/slave1_repo
+	url = git://github.com/ihor4github/slave1_repo.git
